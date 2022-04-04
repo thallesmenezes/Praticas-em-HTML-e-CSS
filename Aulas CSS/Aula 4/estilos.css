@@ -1,0 +1,22 @@
+body{
+    background:azure;
+    
+    
+}
+h1,h2,h3,h4,h5,h6{
+    color:#2323e7;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border-radius: 10px;
+    font-weight: bold;
+    
+}
+p{
+text-align: justify;
+color: black;
+font-size: 15px;
+font-family: Arial, Helvetica, sans-serif;
+
+
+}
