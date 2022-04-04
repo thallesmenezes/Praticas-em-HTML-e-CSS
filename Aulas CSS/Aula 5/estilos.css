@@ -1,0 +1,26 @@
+
+#principal{
+    background-color: whitesmoke;
+}
+.cabecalho{
+    text-align: center;
+    background-color:black;
+    color:azure;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.subtitulo{
+    font-size: 15px;
+    
+
+
+
+
+}
+.text-justify{
+    text-align: justify;
+    color: black;
+    font-size: 15px;
+
+}
